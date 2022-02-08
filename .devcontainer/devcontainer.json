@@ -4,7 +4,10 @@
   "image": "mcr.microsoft.com/dotnet/core/sdk:3.1.200",
   "codespaces": {
     "repositories": [
-      { "name": "bookish-potato/testing-limit-4", "permissions": "write-all" }
+      {
+        "name": "bookish-potato/*",
+        "permissions": "write-all"
+      }
     ]
   },
   "settings": {
