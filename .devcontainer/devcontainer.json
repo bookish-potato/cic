@@ -5,8 +5,8 @@
   "codespaces": {
     "repositories": [
       {
-        "name": "bookish-potato/*",
-        "permissions": "write-all"
+        "name": "bookish-potato/testing-limit-4",
+        "permissions": { "contents": "write" }
       }
     ]
   },
